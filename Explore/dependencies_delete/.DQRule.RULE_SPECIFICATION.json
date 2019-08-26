@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "30oDye7X9FIdwmv9Hl6a8C",
+    "name" : "DQRule",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "30oDye7X9FIdwmv9Hl6a8C"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
