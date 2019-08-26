@@ -1,0 +1,46 @@
+{
+  "objectInfo" : {
+    "id" : "0p7U6M7xhqQhdzbmatm1YJ",
+    "name" : "dq_dependency",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100031700000000000P"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ {
+    "id" : "30oDye7X9FIdwmv9Hl6a8C",
+    "name" : "DQRule",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "30oDye7X9FIdwmv9Hl6a8C"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  } ]
+}
