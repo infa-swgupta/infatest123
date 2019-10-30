@@ -41,6 +41,7 @@
         "contentType" : null,
         "documentState" : "VALID"
       }
-    }
+    },
+    "path" : "/Explore/dependencies_delete"
   } ]
 }

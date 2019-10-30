@@ -17,7 +17,7 @@
       } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
@@ -41,6 +41,7 @@
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
-    }
+    },
+    "path" : "/SYS"
   } ]
 }
