@@ -16,7 +16,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : null,
+        "description" : "test edit description",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -55,10 +55,7 @@
       "repoInfo" : {
         "repoHandle" : "0100DQ0K000000000006"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : null,
         "contentType" : "JSON",
