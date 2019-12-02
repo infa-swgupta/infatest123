@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "7Zx1GeLRgOogjryad5EagY",
+    "id" : "4bF04L3L5GbdKyL4Ues0KI",
     "name" : "LTF_inlineActionDepen_proj1",
     "type" : "WORKFLOW",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100DQ0N000000000008"
+        "repoHandle" : "0100DQ0N00000000000E"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -35,16 +35,19 @@
       "repoInfo" : {
         "repoHandle" : "0100DQ0I000000000005"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     },
     "path" : "/Explore/rel_proj1"
   }, {
-    "id" : "8k4mZMu7eC8hvKHT2VUDS3",
+    "id" : "786v3h59vG1etesGdfnHkG",
     "name" : "PCS_inlineActionDepen_proj1",
     "type" : "PCS",
     "metadata" : {
@@ -53,7 +56,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100DQ0K000000000005"
+        "repoHandle" : "0100DQ0K000000000008"
       },
       "contextAttributes" : [ {
         "name" : "id",
