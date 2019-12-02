@@ -16,7 +16,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : null,
+        "description" : "Editing desc to check dep pull",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
