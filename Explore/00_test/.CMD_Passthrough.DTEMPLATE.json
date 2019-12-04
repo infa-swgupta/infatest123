@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "45SzhXr4RuNiQimYCBOPMB",
+    "id" : "cZcY9Ae1x2bfVnha9rZPel",
     "name" : "CMD_Passthrough",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100DQ17000000000004"
+        "repoHandle" : "0100DQ1700000000000G"
       },
       "contextAttributes" : [ {
         "name" : "id",
