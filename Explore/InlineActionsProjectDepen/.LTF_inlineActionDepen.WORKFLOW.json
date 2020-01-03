@@ -35,10 +35,7 @@
       "repoInfo" : {
         "repoHandle" : "0100DQ0K000000000002"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : null,
         "contentType" : "JSON",
@@ -58,14 +55,11 @@
       "repoInfo" : {
         "repoHandle" : "0100DQ0Z000000000002"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "",
         "contentType" : "JSON",
-        "documentState" : "VALID"
+        "documentState" : "OUTDATED"
       }
     },
     "path" : "/Explore/InlineActionsProjectDepen"
@@ -81,10 +75,7 @@
       "repoInfo" : {
         "repoHandle" : "0100DQ0G000000000002"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : null,
         "contentType" : "JSON",
@@ -104,10 +95,7 @@
       "repoInfo" : {
         "repoHandle" : "0100DQ0I000000000002"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "",
         "contentType" : "JSON",
