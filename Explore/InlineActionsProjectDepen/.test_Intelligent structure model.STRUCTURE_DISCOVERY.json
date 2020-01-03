@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "3xXuxXuyLkrdFlj7qYz98H",
+    "name" : "test_Intelligent structure model",
+    "type" : "STRUCTURE_DISCOVERY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01000330000000000005"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "ssdc",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ ]
+}
