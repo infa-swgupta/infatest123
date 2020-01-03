@@ -1,0 +1,44 @@
+{
+  "objectInfo" : {
+    "id" : "7akzquchpaNijXFLfWvVcr",
+    "name" : "Process_test_2",
+    "type" : "PROCESS",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "C5oplp6oIuQaaab-gt-118015-2020-01-03T17:36:36.457Z::pd.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "objectRefs" : [ {
+    "id" : "8pq4NWwH97zdkCeMhc8C8g",
+    "name" : "Process_test",
+    "type" : "PROCESS",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "eMJr5uCMLkZlkZ2-gt-15567487-2020-01-03T17:36:33.078Z::pd.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/allTasks"
+  } ]
+}
