@@ -17,7 +17,7 @@
       } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
@@ -37,8 +37,8 @@
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "Multiple Lookup Condition",
-        "contentType" : null,
+        "description" : "Multiple Lookup Condition- newer version",
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     },
