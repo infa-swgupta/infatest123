@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "fJQ2XfrcdYOhvBwpPvDech",
+    "name" : "VisioT_SRCTGTUnion_TC02",
+    "type" : "VISIOTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100030V00000000000K"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "test1",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ ]
+}
