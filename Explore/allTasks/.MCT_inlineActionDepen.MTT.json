@@ -55,10 +55,7 @@
       "repoInfo" : {
         "repoHandle" : "0100DQ1700000000000Y"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "Multiple Lookup Condition",
         "contentType" : "JSON",
