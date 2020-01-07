@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
     "id" : "87SxdiCR9guj9dd3uaqQ0H",
-    "name" : "cmd_inlineActionDepen",
+    "name" : "cmd_inlineActionDepen_00234",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -17,7 +17,7 @@
       } ],
       "additionalInfo" : {
         "description" : "Multiple Lookup Conditionhwdhf",
-        "contentType" : null,
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
