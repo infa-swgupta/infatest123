@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "dgrGuMwefGVe3Cz4DAOr0s",
+    "id" : "7RvFLFQzCnockxrW5HKCQD",
     "name" : "Mapping1",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100DQ17000000000002"
+        "repoHandle" : "010SMG1700000000000L"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -18,30 +18,50 @@
       "additionalInfo" : {
         "description" : "",
         "contentType" : "JSON",
-        "documentState" : "INVALID"
+        "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "8gmNd4M5lL9gqsf2KpIkKp",
-    "name" : "DQRule",
-    "type" : "RULE_SPECIFICATION",
+    "id" : "4Bz1KlgAkYHlcIjrZMTz27",
+    "name" : "S8_SQLSERVER2K8",
+    "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
-        "major" : 1,
+        "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "8gmNd4M5lL9gqsf2KpIkKp"
+        "repoHandle" : "010SMG0B00000000000C"
       },
-      "contextAttributes" : [ ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : null,
-        "contentType" : "Binary",
-        "documentState" : "VALID"
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
       }
     },
-    "path" : "/Explore/Default"
+    "path" : "/SYS"
+  }, {
+    "id" : "5xdH5IGz2sse8a5ZhjJRyn",
+    "name" : "FF",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010SMG0B000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
   } ]
 }
