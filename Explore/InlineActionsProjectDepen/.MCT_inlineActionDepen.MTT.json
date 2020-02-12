@@ -18,7 +18,7 @@
       "additionalInfo" : {
         "description" : "",
         "contentType" : "JSON",
-        "documentState" : "INVALID"
+        "documentState" : "VALID"
       }
     }
   },
@@ -40,7 +40,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "Multiple Lookup Condition",
+        "description" : "Multiple Lookup Condition version2",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
