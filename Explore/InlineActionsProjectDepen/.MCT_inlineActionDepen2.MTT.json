@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "2DgQJ4fGF81hXEPSGJQMMo",
+    "id" : "dZOwvDbMVmakLC2FP2GngI",
     "name" : "MCT_inlineActionDepen2",
     "type" : "MTT",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0103MH0Z00000000000F"
+        "repoHandle" : "0104OG0Z00000000001I"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -18,13 +18,13 @@
       "additionalInfo" : {
         "description" : "",
         "contentType" : "JSON",
-        "documentState" : "VALID"
+        "documentState" : "INVALID"
       }
     }
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "aV90NfyKhrccIeoVIwn9kX",
+    "id" : "8mGS2HhlMujjxg1Urhrv87",
     "name" : "cmd_inlineActionDepen",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -33,21 +33,18 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0103MH1700000000000I"
+        "repoHandle" : "0104OG1700000000001F"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "Multiple Lookup Condition",
+        "description" : "Multiple Lookup Condition version2",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
     },
     "path" : "/Explore/InlineActionsProjectDepen"
   }, {
-    "id" : "9FH8B2GTr9zcMWl5kNq2un",
+    "id" : "7qwT0jYrxrReZuYxAMYUA2",
     "name" : "TMS33RH64001",
     "type" : "AgentGroup",
     "metadata" : {
@@ -56,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0103MH25000000000002"
+        "repoHandle" : "0104OG25000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -67,7 +64,7 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "a0aqDQiGv6TkUofuNQpDsJ",
+    "id" : "4HA5xZCBZYwc2EgnY0IQkx",
     "name" : "FF",
     "type" : "Connection",
     "metadata" : {
@@ -76,7 +73,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0103MH0B00000000000B"
+        "repoHandle" : "0104OG0B000000000005"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
