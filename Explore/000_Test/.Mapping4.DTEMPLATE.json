@@ -16,7 +16,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "changing the description",
         "contentType" : "JSON",
         "documentState" : "INVALID"
       }
