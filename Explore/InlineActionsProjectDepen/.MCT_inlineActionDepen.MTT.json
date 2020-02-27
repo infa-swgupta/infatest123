@@ -18,14 +18,14 @@
       "additionalInfo" : {
         "description" : "",
         "contentType" : "JSON",
-        "documentState" : "VALID"
+        "documentState" : "INVALID"
       }
     }
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "8mGS2HhlMujjxg1Urhrv87",
-    "name" : "cmd_inlineActionDepen",
+    "id" : "40Ne5JskGDkbgPbjzi3fcY",
+    "name" : "cmd_inlineActionDepen_test",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0104OG1700000000001F"
+        "repoHandle" : "0104OG1700000000001J"
       },
       "contextAttributes" : [ {
         "name" : "id",
