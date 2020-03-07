@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "1GIsBAKmnq1bNf1AVFdJkH",
+    "id" : "9xlt0uBXStxbZwk7NAbGSC",
     "name" : "MappingTask1",
     "type" : "MTT",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100030Z00000000001D"
+        "repoHandle" : "0100110Z000000000006"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,8 +24,8 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "bFoAAtzrFiikFATbiKJaUf",
-    "name" : "Mapping1",
+    "id" : "dC2rYmGj0azgB6ftmhZLKF",
+    "name" : "CMD_TransfNonParamtr",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -33,18 +33,58 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100031700000000001Q"
+        "repoHandle" : "0100111700000000000C"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "",
+        "description" : "Older scenario",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
     },
-    "path" : "/Explore/Default/F2"
+    "path" : "/Explore/Target_RuntimeParam/TargetConnection"
   }, {
-    "id" : "6BTEsNjPZwLclvc8j2m7UF",
+    "id" : "9OaAktywWSYi3wX7C5euMW",
+    "name" : "FlatFile_Conn2",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100110B000000000009"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "10iprF02N4IciXOk63yQwR",
+    "name" : "FlatFile_Conn",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100110B000000000007"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "connection to test parameter runtime override",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "73ceUI5q7cwkDruwZslqYi",
     "name" : "TMS33RH64001",
     "type" : "AgentGroup",
     "metadata" : {
@@ -53,33 +93,13 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000325000000000002"
+        "repoHandle" : "01001125000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : null,
         "contentType" : "JSON",
         "documentState" : "VALID"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "docaPjMjEODcQrTOxmv5Gk",
-    "name" : "file",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0100030B00000000000R"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
       }
     },
     "path" : "/SYS"
