@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "6yjCUWrUx5XjVJ5wHrwbIx",
+    "id" : "bUFZ5zM4zIFhfQ7PBwJtwd",
     "name" : "LTF_inlineActionDepen2",
     "type" : "WORKFLOW",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100DQ0N000000000005"
+        "repoHandle" : "01001T0N00000000000P"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -17,60 +17,14 @@
       } ],
       "additionalInfo" : {
         "description" : null,
-        "contentType" : "JSON",
+        "contentType" : null,
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "5Qk0LiiNCn9cJj95qy9vkr",
-    "name" : "PCS_inlineActionDepen",
-    "type" : "PCS",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0100DQ0K000000000003"
-      },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/00_test"
-  }, {
-    "id" : "9QK0Z2zowIgcUFfYYVnZ6v",
-    "name" : "MCT_inlineActionDepen2",
-    "type" : "MTT",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0100DQ0Z000000000007"
-      },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
-      "additionalInfo" : {
-        "description" : "",
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/Explore/00_test"
-  }, {
-    "id" : "692g0TvHepNc5LtL7obCwN",
+    "id" : "4g1XqlLWi8xd3zaKARa3sL",
     "name" : "dss_inlineActionDepen",
     "type" : "DSS",
     "metadata" : {
@@ -79,21 +33,38 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100DQ0I000000000003"
+        "repoHandle" : "01001T0I000000000007"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
     },
-    "path" : "/Explore/00_test"
+    "path" : "/Explore/InlineActionsProjectDepen"
   }, {
-    "id" : "6rxFWGz3PsGf28yCYyEbWK",
+    "id" : "jBpcAWEftycbqtESnr6Luw",
+    "name" : "MCT_inlineActionDepen2",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01001T0Z00000000000K"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/InlineActionsProjectDepen"
+  }, {
+    "id" : "7SJK1wgVdYKgqBPPYdH6G3",
     "name" : "drs_inlineActionDepen",
     "type" : "DRS",
     "metadata" : {
@@ -102,18 +73,35 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100DQ0G000000000003"
+        "repoHandle" : "01001T0G000000000007"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : null,
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
     },
-    "path" : "/Explore/00_test"
+    "path" : "/Explore/InlineActionsProjectDepen"
+  }, {
+    "id" : "ajlXqTFG9EakDk4b2c8eau",
+    "name" : "PCS_inlineActionDepen",
+    "type" : "PCS",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01001T0K00000000000A"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/InlineActionsProjectDepen"
   } ]
 }
