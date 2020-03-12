@@ -75,7 +75,10 @@
       "repoInfo" : {
         "repoHandle" : "01001T17000000000008"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
       "additionalInfo" : {
         "description" : "Multiple Lookup Condition",
         "contentType" : null,
