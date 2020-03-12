@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "dZOwvDbMVmakLC2FP2GngI",
+    "id" : "jBpcAWEftycbqtESnr6Luw",
     "name" : "MCT_inlineActionDepen2",
     "type" : "MTT",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0104OG0Z00000000001I"
+        "repoHandle" : "01001T0Z00000000000K"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -18,33 +18,33 @@
       "additionalInfo" : {
         "description" : "",
         "contentType" : "JSON",
-        "documentState" : "INVALID"
+        "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "8mGS2HhlMujjxg1Urhrv87",
-    "name" : "cmd_inlineActionDepen",
-    "type" : "DTEMPLATE",
+    "id" : "2IdunJGUzIzbD2Y0B87ImW",
+    "name" : "FF",
+    "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0104OG1700000000001F"
+        "repoHandle" : "01001T0B000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "Multiple Lookup Condition version2",
+        "description" : "test desc",
         "contentType" : "JSON",
-        "documentState" : "VALID"
+        "documentState" : "COMPLETE"
       }
     },
-    "path" : "/Explore/InlineActionsProjectDepen"
+    "path" : "/SYS"
   }, {
-    "id" : "7qwT0jYrxrReZuYxAMYUA2",
+    "id" : "9hXvHYD3reOftlVuXJdaOE",
     "name" : "TMS33RH64001",
     "type" : "AgentGroup",
     "metadata" : {
@@ -53,7 +53,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0104OG25000000000002"
+        "repoHandle" : "01001T25000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -64,24 +64,27 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "4HA5xZCBZYwc2EgnY0IQkx",
-    "name" : "FF",
-    "type" : "Connection",
+    "id" : "02KSNfegFYdcnYv7623kuJ",
+    "name" : "cmd_inlineActionDepen",
+    "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0104OG0B000000000005"
+        "repoHandle" : "01001T17000000000007"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
       "additionalInfo" : {
-        "description" : "test desc",
+        "description" : "Multiple Lookup Condition",
         "contentType" : "JSON",
-        "documentState" : "COMPLETE"
+        "documentState" : "VALID"
       }
     },
-    "path" : "/SYS"
+    "path" : "/Explore/InlineActionsProjectDepen"
   } ]
 }
