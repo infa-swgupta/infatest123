@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "d9BR3vwtWOZlq5CMX4izKb",
+    "id" : "37OPqutYec2dIqwy9BgF6d",
     "name" : "LTF_inlineActionDepen",
     "type" : "WORKFLOW",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01001T0N00000000000Q"
+        "repoHandle" : "01001T0N00000000000S"
       },
       "contextAttributes" : [ {
         "name" : "id",
