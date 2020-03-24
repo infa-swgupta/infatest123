@@ -75,7 +75,10 @@
       "repoInfo" : {
         "repoHandle" : "010SMG1700000000000Q"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
       "additionalInfo" : {
         "description" : "Multiple Lookup Condition",
         "contentType" : "JSON",
