@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "0dXLwW6FACvky4N4ZsQiC4",
+    "id" : "avgKpgDbscZd8pPHJrGwGY",
     "name" : "drs_inlineActionDepen",
     "type" : "DRS",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010SMG0G000000000003"
+        "repoHandle" : "0100RW0G000000000002"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,7 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "lW41QMEHES8cGp6dmAJ9uJ",
+    "id" : "7KFPfAVrd7heXJ8XuNoqEu",
     "name" : "RP_Sql_Server201",
     "type" : "Connection",
     "metadata" : {
@@ -33,7 +33,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010SMG0B00000000000G"
+        "repoHandle" : "0100RW0B000000000004"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
@@ -44,7 +44,7 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "5xdH5IGz2sse8a5ZhjJRyn",
+    "id" : "0VMg5j1vadVkSOhXgV6b2v",
     "name" : "FF",
     "type" : "Connection",
     "metadata" : {
@@ -53,11 +53,11 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010SMG0B000000000002"
+        "repoHandle" : "0100RW0B000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : null,
+        "description" : "FF conn",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
