@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "1L8T3eLGrlZey4Mp3tCoIR",
+    "id" : "eQGNUz8fY4ydcUwUmCYWo6",
     "name" : "CMD_ConnParam",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010SMG1700000000000A"
+        "repoHandle" : "0100X017000000000002"
       },
       "contextAttributes" : [ {
         "name" : "id",
