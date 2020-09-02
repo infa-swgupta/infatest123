@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "30oDye7X9FIdwmv9Hl6a8C",
+    "id" : "5GxEC3i48mAk1gotUpwYm8",
     "name" : "DQRule",
     "type" : "RULE_SPECIFICATION",
     "metadata" : {
@@ -9,12 +9,12 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "30oDye7X9FIdwmv9Hl6a8C"
+        "repoHandle" : "5GxEC3i48mAk1gotUpwYm8"
       },
       "contextAttributes" : [ ],
       "additionalInfo" : {
         "description" : null,
-        "contentType" : null,
+        "contentType" : "Binary",
         "documentState" : "VALID"
       }
     }
