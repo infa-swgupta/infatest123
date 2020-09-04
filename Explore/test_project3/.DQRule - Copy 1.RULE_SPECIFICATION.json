@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "cYu2ndxQp6PfTvhG4Uv6s2",
+    "name" : "DQRule - Copy 1",
+    "type" : "RULE_SPECIFICATION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "cYu2ndxQp6PfTvhG4Uv6s2"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
