@@ -1,0 +1,64 @@
+{
+  "objectInfo" : {
+    "id" : "4zvXmiaD1zreZgGD4LD1c9",
+    "name" : "adst_ubuntu_newagent",
+    "type" : "DW_TASK",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 2,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "9e0TWhHltUDf0IRosto3mj"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : ""
+      }
+    }
+  },
+  "dataFileExtension" : "dat",
+  "objectRefs" : [ {
+    "id" : "9Uc3seE2oOVbRzNfik0XCh",
+    "name" : "sqlserver_azureVM_ubuntu",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01020Q0B000000000006"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "6z65RxQcLSdlf9a5sc7bi1",
+    "name" : "ubuntuvm",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01020Q25000000000007"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}
