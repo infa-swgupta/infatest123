@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "i99l3CrBl8ydsALeFDjDgP",
+    "name" : "Folder - Copy 4 - Copy 1 - Copy 1 - Copy 1",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
