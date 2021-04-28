@@ -1,15 +1,15 @@
 {
   "objectInfo" : {
-    "id" : "2piLoxHNkstbuNvNhaPRso",
-    "name" : "BulkUnlink_Mapping",
-    "type" : "DTEMPLATE",
+    "id" : "5iu3JCVtwajiftqRI0ymGP",
+    "name" : "BulkUnlink_LTF_DSS_FF_FF",
+    "type" : "DSS",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0112NC1700000000070D"
+        "repoHandle" : "0112NC0I000000000007"
       },
       "contextAttributes" : [ {
         "name" : "id",
