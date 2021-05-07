@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "5JWiTOwtCcUlg4xwSU0y0w",
+    "name" : "Mapping1 - Copy 1 - Copy 1 - Copy 1 - Copy 1",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0112NC17000000000717"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ ]
+}
