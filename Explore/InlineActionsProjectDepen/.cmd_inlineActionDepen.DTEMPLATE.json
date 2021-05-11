@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "1Bq5qqTFzcfecFA6j3fbOy",
+    "id" : "0TjnQznHM2dcgYtP6DCRiy",
     "name" : "cmd_inlineActionDepen",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,14 +9,14 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0112NC17000000000002"
+        "repoHandle" : "01003A1700000000000U"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "Multiple Lookup Condition, uodated after readme update",
+        "description" : "Multiple Lookup Condition",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -24,7 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "0PhFRJaMALHdmQrRXwVaMn",
+    "id" : "0XBN6HGfkaxcD9aPgDKpA2",
     "name" : "FF",
     "type" : "Connection",
     "metadata" : {
@@ -33,11 +33,11 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0112NC0B000000000003"
+        "repoHandle" : "01003A0B000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "test desc",
+        "description" : "test deschbxc",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
