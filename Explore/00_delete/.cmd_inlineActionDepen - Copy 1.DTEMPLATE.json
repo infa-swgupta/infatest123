@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "2EwA64CLv01kbcMQpRDFgP",
-    "name" : "cmd_inlineActionDepen",
+    "id" : "fXRIoiC8tejhbxuXVhlQ0k",
+    "name" : "cmd_inlineActionDepen - Copy 1",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0112NC170000000007TJ"
+        "repoHandle" : "0112NC170000000007TK"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -17,7 +17,7 @@
       } ],
       "additionalInfo" : {
         "description" : "Multiple Lookup Condition",
-        "contentType" : "JSON",
+        "contentType" : null,
         "documentState" : "VALID"
       }
     }
