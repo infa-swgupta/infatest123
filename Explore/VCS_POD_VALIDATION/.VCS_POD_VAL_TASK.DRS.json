@@ -23,7 +23,7 @@
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-08-29T09:45:56.112Z",
+  "updateTime" : "2024-12-11T09:09:47.704Z",
   "objectRefs" : [ {
     "id" : "4U2VZe9304yeBAgL5WGeet",
     "name" : "CSV_TGT_UTF",
@@ -45,8 +45,8 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "97QyhQlCb4Jlx6mmvlex20",
-    "name" : "S8_SQLSERVER2K8",
+    "id" : "7PS8DT2xAQPj4I6Li2mLSa",
+    "name" : "S8_SQLSERVER2K8_2",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -54,7 +54,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0100070B000000000E71"
+        "repoHandle" : "0100070B000000005VOH"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
