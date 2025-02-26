@@ -23,7 +23,7 @@
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2025-02-26T09:15:45.104Z",
+  "updateTime" : "2025-02-26T09:16:44.067Z",
   "objectRefs" : [ {
     "id" : "4U2VZe9304yeBAgL5WGeet",
     "name" : "CSV_TGT_UTF",
@@ -65,6 +65,6 @@
     },
     "path" : "/SYS"
   } ],
-  "readableFileExtension" : null,
-  "readableFilePresent" : false
+  "readableFileExtension" : "json",
+  "readableFilePresent" : true
 }
