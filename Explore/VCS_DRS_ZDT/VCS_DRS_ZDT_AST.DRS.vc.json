@@ -39,12 +39,12 @@
           "nullable" : true,
           "createable" : false,
           "externalId" : false,
-          "updateable" : true,
-          "sfIdLookup" : false,
-          "filterable" : true,
-          "unique" : false,
+          "waterMarkKey" : false,
           "calculated" : false,
-          "waterMarkKey" : false
+          "updateable" : true,
+          "unique" : false,
+          "filterable" : true,
+          "sfIdLookup" : false
         },
         {
           "name" : "F7_FLOAT_DEF",
@@ -59,12 +59,12 @@
           "nullable" : true,
           "createable" : false,
           "externalId" : false,
-          "updateable" : true,
-          "sfIdLookup" : false,
-          "filterable" : true,
-          "unique" : false,
+          "waterMarkKey" : false,
           "calculated" : false,
-          "waterMarkKey" : false
+          "updateable" : true,
+          "unique" : false,
+          "filterable" : true,
+          "sfIdLookup" : false
         },
         {
           "name" : "F9_MONEY_DEF",
@@ -79,16 +79,16 @@
           "nullable" : true,
           "createable" : false,
           "externalId" : false,
-          "updateable" : true,
-          "sfIdLookup" : false,
-          "filterable" : true,
-          "unique" : false,
+          "waterMarkKey" : false,
           "calculated" : false,
-          "waterMarkKey" : false
+          "updateable" : true,
+          "unique" : false,
+          "filterable" : true,
+          "sfIdLookup" : false
         }
       ]
     }
   ],
   "srcRuntimeAttrs" : { },
-  "vcsExportTime" : "2025-02-26 21:40:30 PST"
+  "vcsExportTime" : "2025-02-26 21:41:32 PST"
 }
