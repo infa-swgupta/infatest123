@@ -39,10 +39,10 @@
           "nullable" : true,
           "createable" : false,
           "externalId" : false,
-          "updateable" : true,
           "unique" : false,
-          "sfIdLookup" : false,
+          "updateable" : true,
           "filterable" : true,
+          "sfIdLookup" : false,
           "calculated" : false,
           "waterMarkKey" : false
         },
@@ -59,10 +59,10 @@
           "nullable" : true,
           "createable" : false,
           "externalId" : false,
-          "updateable" : true,
           "unique" : false,
-          "sfIdLookup" : false,
+          "updateable" : true,
           "filterable" : true,
+          "sfIdLookup" : false,
           "calculated" : false,
           "waterMarkKey" : false
         },
@@ -79,10 +79,10 @@
           "nullable" : true,
           "createable" : false,
           "externalId" : false,
-          "updateable" : true,
           "unique" : false,
-          "sfIdLookup" : false,
+          "updateable" : true,
           "filterable" : true,
+          "sfIdLookup" : false,
           "calculated" : false,
           "waterMarkKey" : false
         }
@@ -90,5 +90,5 @@
     }
   ],
   "srcRuntimeAttrs" : { },
-  "vcsExportTime" : "2025-05-23 23:11:14 PDT"
+  "vcsExportTime" : "2025-05-23 23:12:14 PDT"
 }
