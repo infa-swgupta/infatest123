@@ -36,10 +36,10 @@
           "showLabel" : false,
           "naturalOrder" : 0,
           "key" : false,
+          "updateable" : true,
           "nullable" : true,
           "createable" : false,
           "externalId" : false,
-          "updateable" : true,
           "unique" : false,
           "filterable" : true,
           "sfIdLookup" : false,
@@ -56,10 +56,10 @@
           "showLabel" : false,
           "naturalOrder" : 0,
           "key" : false,
+          "updateable" : true,
           "nullable" : true,
           "createable" : false,
           "externalId" : false,
-          "updateable" : true,
           "unique" : false,
           "filterable" : true,
           "sfIdLookup" : false,
@@ -76,10 +76,10 @@
           "showLabel" : false,
           "naturalOrder" : 0,
           "key" : false,
+          "updateable" : true,
           "nullable" : true,
           "createable" : false,
           "externalId" : false,
-          "updateable" : true,
           "unique" : false,
           "filterable" : true,
           "sfIdLookup" : false,
@@ -90,5 +90,5 @@
     }
   ],
   "srcRuntimeAttrs" : { },
-  "vcsExportTime" : "2025-05-26 06:06:45 PDT"
+  "vcsExportTime" : "2025-05-26 06:07:52 PDT"
 }
