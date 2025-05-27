@@ -36,13 +36,13 @@
           "showLabel" : false,
           "naturalOrder" : 0,
           "key" : false,
+          "updateable" : true,
           "nullable" : true,
           "createable" : false,
           "externalId" : false,
-          "updateable" : true,
+          "unique" : false,
           "filterable" : true,
           "sfIdLookup" : false,
-          "unique" : false,
           "calculated" : false,
           "waterMarkKey" : false
         },
@@ -56,13 +56,13 @@
           "showLabel" : false,
           "naturalOrder" : 0,
           "key" : false,
+          "updateable" : true,
           "nullable" : true,
           "createable" : false,
           "externalId" : false,
-          "updateable" : true,
+          "unique" : false,
           "filterable" : true,
           "sfIdLookup" : false,
-          "unique" : false,
           "calculated" : false,
           "waterMarkKey" : false
         },
@@ -76,13 +76,13 @@
           "showLabel" : false,
           "naturalOrder" : 0,
           "key" : false,
+          "updateable" : true,
           "nullable" : true,
           "createable" : false,
           "externalId" : false,
-          "updateable" : true,
+          "unique" : false,
           "filterable" : true,
           "sfIdLookup" : false,
-          "unique" : false,
           "calculated" : false,
           "waterMarkKey" : false
         }
@@ -90,5 +90,5 @@
     }
   ],
   "srcRuntimeAttrs" : { },
-  "vcsExportTime" : "2025-05-27 03:30:57 PDT"
+  "vcsExportTime" : "2025-05-27 03:31:37 PDT"
 }
